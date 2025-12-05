@@ -1,3 +1,5 @@
+# LD50-antitargets dataset
+
 This dataset provides docking scores for 12,654 ligands evaluated against 44 toxicity-relevant protein targets from the Bowes safety panel, with corresponding LD50 values reported for mice (intravenous). AFor comprehensive details on data preprocessing, the molecular docking procedure, and the relationship between LD50 and docking scores, please refer to our publication (https://www.mdpi.com/1999-4923/17/12/1573).
 
 ### How to cite?
