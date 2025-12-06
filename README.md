@@ -4,15 +4,18 @@ This dataset provides docking scores for 12,654 ligands evaluated against 44 tox
 
 ### How to cite?
 ```
-@article{pharmaceutics17121573,
-  author = {Nikitin, Ilia and Morgunov, Igor and Safronov, Victor and Kalyuzhnaya, Anna and Fedorov, Maxim},
-  title = {Towards Explainable Computational Toxicology: Linking Antitargets to Rodent Acute Toxicity},
-  journal = {Pharmaceutics},
-  volume = {17},
-  number = {12},
-  pages = {1573},
-  year = {2025},
-  doi = {10.3390/pharmaceutics17121573},
-  url = {https://www.mdpi.com/1999-4923/17/12/1573}
+@article{Nikitin2025,
+   author = {Ilia Nikitin and Igor Morgunov and Victor Safronov and Anna Kalyuzhnaya and Maxim Fedorov},
+   doi = {10.3390/PHARMACEUTICS17121573},
+   issn = {1999-4923},
+   issue = {12},
+   journal = {Pharmaceutics 2025, Vol. 17, Page 1573},
+   month = {12},
+   pages = {1573},
+   publisher = {Multidisciplinary Digital Publishing Institute},
+   title = {Towards Explainable Computational Toxicology: Linking Antitargets to Rodent Acute Toxicity},
+   volume = {17},
+   url = {https://www.mdpi.com/1999-4923/17/12/1573/htm https://www.mdpi.com/1999-4923/17/12/1573},
+   year = {2025}
 }
 ```
